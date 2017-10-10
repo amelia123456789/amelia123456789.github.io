@@ -1,0 +1,28 @@
+body
+  {background-color:#99ddff;
+font-family: 'Marmelad', sans-serif;
+
+}
+h1 {color:white;
+}
+
+p {font-family:<link href=@import url(@import url('https://fonts.googleapis.com/css?family=Marmelad'););;>;
+  font-size: 25px;
+  color: white;
+}
+#top { 
+background #6699ff;
+}
+
+#negg {
+       background: \royalblue;
+        width 400px
+}
+ 
+
+#main{
+  backgroun:green
+  padding-right:10px
+  #title
+  border-radius:15px
+  }
